@@ -1,3 +1,0 @@
-docker build -t iis-web .
-docker run -d -p 8080:80 --name iis-site-test iis-web
-docker exec iis-site-test ipconfig
