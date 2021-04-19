@@ -4,7 +4,6 @@ https://docs.chocolatey.org/en-us/choco/setup
 
 choco install curl -y
 choco install mysql-cli -y
-choco list --local-only
 choco install kubernetes-cli -y
 choco install kubernetes-helm -y
 choco install minikube -y
