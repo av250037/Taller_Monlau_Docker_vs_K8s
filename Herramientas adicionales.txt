@@ -1,0 +1,24 @@
+Chocolatey:
+
+https://docs.chocolatey.org/en-us/choco/setup
+
+choco install curl -y
+choco install mysql-cli -y
+choco install kubernetes-cli -y
+choco install kubernetes-helm -y
+choco install minikube -y
+choco install openssh -pre -y
+choco list --local-only
+
+https://kubernetes.io/es/docs/tasks/tools/install-kubectl/
+https://phoenixnap.com/kb/install-helm
+https://minikube.sigs.k8s.io/docs/start/
+https://github.com/kubernetes/minikube/releases
+
+WSL ( Windows Subsystem Linux ):
+
+https://docs.microsoft.com/en-us/windows/wsl/install-win10
+
+Visual Studio Code:
+
+https://code.visualstudio.com/Download
